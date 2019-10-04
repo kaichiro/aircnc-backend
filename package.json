@@ -17,5 +17,18 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaichiro/aircnc-backend.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "backend",
+    "Rocketseat"
+  ],
+  "bugs": {
+    "url": "https://github.com/kaichiro/aircnc-backend/issues"
+  },
+  "homepage": "https://github.com/kaichiro/aircnc-backend#readme"
 }
